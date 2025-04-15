@@ -1,7 +1,8 @@
 <h1 align="center">Hey there, I'm 👋 Monu Mandal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PostgreSQL;Tech+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PostgreSQL;Tech+Enthusiast+%26+Lifelong+Learner" alt="Typing SVG" />
 </p>
+
 
 ---
 
