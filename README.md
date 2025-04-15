@@ -40,15 +40,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-place7&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-place7&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -65,6 +56,17 @@
 ### 👁️‍🗨️ Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=code-place7&color=blue)
+
+---
+
+### 🚀 My Interests & Hobbies
+- 🧑‍💻 **Coding** | Passionate about building projects and learning new technologies.
+- 🔐 **Web Security** | Exploring **Pentesting** & ethical hacking.
+- 📱 **App Development** | Building cross-platform apps with **React Native + Expo**.
+- 🎮 **Gaming** | Playing action RPGs, strategy games, and more.
+- 🌍 **Travel** | Exploring new places and learning about different cultures.
+- 🎥 **Movies** | Big fan of sci-fi, thrillers, and classic films.
+- 📚 **Books** | Always reading about tech, self-growth, and entrepreneurship.
 
 ---
 
