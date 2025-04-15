@@ -20,7 +20,7 @@
   "Frontend": ["React", "React Native", "TailwindCSS"],
   "Backend": ["Node.js", "Express", "Convex", "Prisma"],
   "Database": ["PostgreSQL"],
-  "Tools": ["Git", "VSCode",]
+  "Tools": ["Git", "VSCode"]
 }
 
 📈 GitHub Stats
