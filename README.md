@@ -1,15 +1,16 @@
 <h1 align="center">Hey there, I'm 👋 Monu Mandal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Learning+Web+Security+and+Pentesting;Learning+App+Development+with+React+Native+%2B+Expo;Tech+Enthusiast+%26+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;API+Integration+%26+Development+Ninja;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💡 About Me
-- 🔭 I’m currently working on **a full-stack event management system** and learning **web security & pentesting**.
-- 🌱 I’m **building cross-platform apps** using **React Native + Expo**.
-- 🧠 Always learning, always building. I’m passionate about **ethical hacking** and **app development**.
-- 💬 Ask me about **tech, security, app development**, or anything cool!
+- 🤖 Currently exploring the vast world of **AI and Machine Learning**.
+- 🌐 Building powerful **full-stack web apps** and crafting seamless **API integrations**.
+- 🛠️ Passionate about **solving real-world problems** using tech.
+- 💡 In the **era of AI**, knowing just the basics isn’t enough — I believe in going **beyond the basics** to stand out in the tech industry.
+- 📈 Lifelong learner committed to staying ahead of the curve.
 
 ---
 
@@ -20,6 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### **Frontend**:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -60,14 +62,18 @@
 ---
 
 ### 🚀 My Interests & Hobbies
-- 🧑‍💻 **Coding** | Passionate about building projects and learning new technologies.
-- 🔐 **Web Security** | Exploring **Pentesting** & ethical hacking.
-- 📱 **App Development** | Building cross-platform apps with **React Native + Expo**.
-- 🎮 **Gaming** | Playing action RPGs, strategy games, and more.
-- 🌍 **Travel** | Exploring new places and learning about different cultures.
-- 🎥 **Movies** | Big fan of sci-fi, thrillers, and classic films.
-- 📚 **Books** | Always reading about tech, self-growth, and entrepreneurship.
+- 🤖 **AI & Machine Learning** | Exploring models, training data, and building intelligent systems.
+- 🌐 **Full Stack Development** | From database to UI, I build it all.
+- 🔌 **API Integration & Development** | Love connecting services and building robust APIs.
+- 🔐 **Web Security** | Learning about ethical hacking & cybersecurity best practices.
+- 📱 **App Development** | Crafting cross-platform mobile experiences.
+- 🎮 **Gaming** | Big fan of immersive RPGs and strategy games.
+- ✈️ **Travel** | Always ready for a tech conference or a new cultural experience.
+- 📚 **Reading** | Tech, self-growth, AI trends, and productivity hacks.
 
 ---
 
+> 🧠 *“In the age of AI, curiosity and skills are your superpowers.”*
 > 🧠 *“Every expert was once a beginner.”*
+
+
