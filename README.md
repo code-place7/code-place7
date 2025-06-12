@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm 👋 Monu Mandal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;API+Integration+%26+Development+Ninja;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;API+Integrati[...]
 </p>
 
 ---
@@ -34,6 +34,12 @@
 
 #### **Database**:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **Full Stack Web Development**:
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3B3B3B?style=for-the-badge&logo=clerk&logoColor=white)
 
 #### **Tools**:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -75,5 +81,3 @@
 
 > 🧠 *“In the age of AI, curiosity and skills are your superpowers.”*
 > 🧠 *“Every expert was once a beginner.”*
-
-
