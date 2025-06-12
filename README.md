@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm 👋 Monu Mandal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;API+Integrati[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;API+Integration+%26+Development+Ninja;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
 ---
