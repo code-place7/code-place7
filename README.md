@@ -43,8 +43,6 @@
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ### 🧠 Backend as a Virtual OS – Powered by Puter.js
-
-I build and run all my backend services using **Puter.js**, leveraging its virtual operating system environment to manage files, processes, and network tasks seamlessly in the browser. This allows for a modern, lightweight, and OS-like backend architecture that runs entirely on the web.
 ![Puter.js](https://img.shields.io/badge/Puter.js-1E1E1E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjRkYzMjVCIi8+PHRleHQgeD0iMjU2IiB5PSIyNzEiIGZvbnQtc2l6ZT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1mYW1pbHk9IkFyaWFsIj5QPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
 
 
