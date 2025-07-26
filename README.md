@@ -70,7 +70,7 @@
 
 ### 👁️‍🗨️ Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=code-place7&color=green)
+![Visitor Count](https://komarev.com/ghpvc/?username=code-place7&color=red)
 
 ---
 
