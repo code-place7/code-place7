@@ -70,7 +70,7 @@
 
 ### 👁️‍🗨️ Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=code-place7&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=code-place7&color=green)
 
 ---
 
@@ -78,12 +78,9 @@
 - 🤖 **AI & Machine Learning** | Exploring models, training data, and building intelligent systems.
 - 🌐 **Full Stack Development** | From database to UI, I build it all.
 - 🔌 **API Integration & Development** | Love connecting services and building robust APIs.
-- 🔐 **Web Security** | Learning about ethical hacking & cybersecurity best practices.
 - 📱 **App Development** | Crafting cross-platform mobile experiences.
-- 🎮 **Gaming** | Big fan of immersive RPGs and strategy games.
+- 🍿 **Movies** | Big fan of watching Hollywood and Korean Action Movies.
 - ✈️ **Travel** | Always ready for a tech conference or a new cultural experience.
-- 📚 **Reading** | Tech, self-growth, AI trends, and productivity hacks.
-
 ---
 
 > 🧠 *“In the age of AI, curiosity and skills are your superpowers.”*
