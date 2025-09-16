@@ -12,6 +12,8 @@ I’m not just writing code — I **design, build, and secure systems that scale
 With expertise spanning **System Design, Cloud, DevOps, Cybersecurity, and Full-Stack Engineering**, I help companies move from **ideas → production → secure scalability**.  
 
 ✅ *If your team needs someone who can architect, automate, and secure — I’m that engineer.*  
+> 🧠 *“Life is too short For an interview, Why don't just Hire Me.”*  
+
 
 ---
 
@@ -76,6 +78,5 @@ With expertise spanning **System Design, Cloud, DevOps, Cybersecurity, and Full-
 
 > 🧠 *“Great engineers don’t just write code — they design, automate, and secure systems.”*  
 > 🧠 *“Nobody Knows Everything , It's the jorney that never ends.”*  
-> 🧠 *“When you deal with the sutuation right away, It's saves you time later.”*  
-> 🧠 *“Life is too short fro interview, Why don't just Hire Me.”*  
+> 🧠 *“When you deal with the situation right away, It's saves you time later.”*  
 > 🔒 *“DevOps + Cloud + Security = Future-Proof Engineering.”*  
