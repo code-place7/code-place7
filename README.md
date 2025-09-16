@@ -55,17 +55,7 @@ With expertise spanning **System Design, Cloud, DevOps, Cybersecurity, and Full-
 - 🔐 **Cybersecurity:** Building secure systems with IAM, encryption & compliance.  
 - 🌐 **Full-Stack Development:** Delivering user-ready apps with modern stacks.  
 
----
 
-### 🌟 Highlight Projects
-*(what I build in action)*  
-
-- 🏗️ **[Scalable API Architecture](#)** → Node.js + AWS Lambda + DynamoDB for high throughput.  
-- ☁️ **[Cloud Infra Automation](#)** → Terraform + Kubernetes deployment pipeline on GCP.  
-- 🔒 **[Zero Trust Auth System](#)** → Secure user auth with Next.js, Clerk, and IAM policies.  
-- ⚙️ **[CI/CD Pipeline](#)** → Automated build/test/deploy with GitHub Actions + Docker.  
-
----
 
 ### 🌐 Connect With Me
 <p align="center">
@@ -85,4 +75,7 @@ With expertise spanning **System Design, Cloud, DevOps, Cybersecurity, and Full-
 ---
 
 > 🧠 *“Great engineers don’t just write code — they design, automate, and secure systems.”*  
+> 🧠 *“Nobody Knows Everything , It's the jorney that never ends.”*  
+> 🧠 *“When you deal with the sutuation right away, It's saves you time later.”*  
+> 🧠 *“Life is too short fro interview, Why don't just Hire Me.”*  
 > 🔒 *“DevOps + Cloud + Security = Future-Proof Engineering.”*  
