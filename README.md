@@ -7,13 +7,11 @@
 
 ---
 
+
 ### 🎓 Certifications & Badges
 
-<p align="center">
-  <a href="https://www.credly.com/badges/955f95e3-0d12-4831-89c7-4a729e72c58b" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/955f95e3-0d12-4831-89c7-4a729e72c58b" width="150" alt="Google Cloud Cybersecurity Beginner Badge"/>
-  </a>
-</p>
+[![Google Cloud Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cloud-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/955f95e3-0d12-4831-89c7-4a729e72c58b)
+
 
 ---
 
