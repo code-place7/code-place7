@@ -7,13 +7,22 @@
 
 ---
 
+### 🎓 Certifications & Badges
+
+<p align="center">
+  <a href="https://www.credly.com/badges/955f95e3-0d12-4831-89c7-4a729e72c58b" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/955f95e3-0d12-4831-89c7-4a729e72c58b" width="150" alt="Google Cloud Cybersecurity Beginner Badge"/>
+  </a>
+</p>
+
+---
+
 ### 💡 Why Me?
 I’m not just writing code — I **design, build, and secure systems that scale**.  
 With expertise spanning **System Design, Cloud, DevOps, Cybersecurity, and Full-Stack Engineering**, I help companies move from **ideas → production → secure scalability**.  
 
 ✅ *If your team needs someone who can architect, automate, and secure — I’m that engineer.*  
 > 🧠 *“Life is too short For an interview, Why don't just Hire Me.”*  
-
 
 ---
 
@@ -57,7 +66,7 @@ With expertise spanning **System Design, Cloud, DevOps, Cybersecurity, and Full-
 - 🔐 **Cybersecurity:** Building secure systems with IAM, encryption & compliance.  
 - 🌐 **Full-Stack Development:** Delivering user-ready apps with modern stacks.  
 
-
+---
 
 ### 🌐 Connect With Me
 <p align="center">
@@ -77,6 +86,6 @@ With expertise spanning **System Design, Cloud, DevOps, Cybersecurity, and Full-
 ---
 
 > 🧠 *“Great engineers don’t just write code — they design, automate, and secure systems.”*  
-> 🧠 *“Nobody Knows Everything , It's the jorney that never ends.”*  
-> 🧠 *“When you deal with the situation right away, It's saves you time later.”*  
-> 🔒 *“DevOps + Cloud + Security = Future-Proof Engineering.”*  
+> 🧠 *“Nobody Knows Everything , It's the journey that never ends.”*  
+> 🧠 *“When you deal with the situation right away, It saves you time later.”*  
+> 🔒 *“DevOps + Cloud + Security = Future-Proof Engineering.”*
