@@ -7,6 +7,11 @@
 
 ---
 
+### About ME 
+Hi, I’m MONU — a BCA graduate driven by curiosity, always exploring how applications are built, deployed, automated, and secured using modern technologies.
+
+I may be at the beginning of my professional journey, but I don’t just write code — I focus on designing, building, and understanding systems that can scale securely from idea to production.
+
 
 ### 🎓 Certifications & Badges
 
@@ -47,8 +52,6 @@ With expertise spanning **System Design, Cloud, DevOps, Cybersecurity, and Full-
 #### 💻 **Programming & Full-Stack**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
