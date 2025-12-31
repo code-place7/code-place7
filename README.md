@@ -12,6 +12,9 @@ Hi, I’m MONU — a BCA graduate driven by curiosity, always exploring how appl
 
 I may be at the beginning of my professional journey, but I don’t just write code — I focus on designing, building, and understanding systems that can scale securely from idea to production.
 
+"Live with so much kindness that even a blind man can see it in the way you live.😊"
+"Yesterday is history , Tomorrow is Mystery but Today, my friend Today is Gift that's why it is called Present . live it fully.✅😊"
+
 
 ### 🎓 Certifications & Badges
 
