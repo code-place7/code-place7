@@ -37,23 +37,18 @@ With expertise spanning **System Design, Cloud, DevOps, Cybersecurity, and Full-
 
 #### ☁️ **Cloud Platforms**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 #### ⚙️ **DevOps & Automation**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloud_Networking](https://img.shields.io/badge/Cloud_Networking-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-#### 🔒 **Cloud Security**
-![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Encryption](https://img.shields.io/badge/Encryption-0A66C2?style=for-the-badge&logo=lets-encrypt&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-FF6F00?style=for-the-badge&logo=cloudflare&logoColor=white)
-![API Security](https://img.shields.io/badge/API_Security-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
 
 #### 💻 **Programming & Full-Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -66,9 +61,8 @@ With expertise spanning **System Design, Cloud, DevOps, Cybersecurity, and Full-
 
 ### 📊 What Companies Get With Me
 - 🏗️ **System Design:** Architecting scalable & fault-tolerant solutions.  
-- ☁️ **Cloud Computing:** Deploying & optimizing workloads on AWS/Azure/GCP.  
-- ⚙️ **DevOps Engineering:** CI/CD pipelines, containerization, infra as code.  
-- 🔐 **Cybersecurity:** Building secure systems with IAM, encryption & compliance.  
+- ☁️ **Cloud Computing:** Deploying & optimizing workloads on AWS.  
+- ⚙️ **DevOps Engineering:** CI/CD pipelines, containerization, infra as code.    
 - 🌐 **Full-Stack Development:** Delivering user-ready apps with modern stacks.  
 
 ---
