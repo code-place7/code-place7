@@ -8,9 +8,7 @@
 ---
 
 ### About ME 
-Hi, I’m MONU — a BCA graduate driven by curiosity, always exploring how applications are built, deployed, automated, and secured using modern technologies.
-
-I may be at the beginning of my professional journey, but I don’t just write code — I focus on designing, building, and understanding systems that can scale securely from idea to production.
+Hi, I’m Monu, a BCA graduate. I started out building frontend and backend applications, but along the way I realized coding wasn’t the part that excited me the most. What truly fascinated me was what happens after development—deploying applications, automating workflows, and keeping systems running securely. That curiosity is what I’m deeply focused on learning now.
 
 "Live with so much kindness that even a blind man can see it in the way you live.😊"
 
